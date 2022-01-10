@@ -1,0 +1,7 @@
+int age , String name, LocalDate date, long l
+null,hen,2021-12-29,233
+2,null,2021-12-29,22
+null,null,null,null
+1,hent,null,233
+2,,,
+3,,,
